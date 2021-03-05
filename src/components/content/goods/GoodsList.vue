@@ -29,5 +29,6 @@
     padding: 2px;
     flex-wrap: wrap;
     justify-content: space-around;
+    padding-bottom: 30px;
   }
 </style>
